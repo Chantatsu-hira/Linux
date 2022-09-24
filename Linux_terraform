@@ -1,0 +1,1 @@
+読み取り専用ファイルとなり、aptが実行不可。chmodによる権限変更も不可→Windoewsのパワーシェルからwsl.exe --shutdownを実行し、ubuntuを再起動することで実施可能。　　
